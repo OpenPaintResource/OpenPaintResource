@@ -1,1 +1,3 @@
-# [官方网站julialang.tech](https://julialang.tech/)
+# [julialang.tech](https://julialang.tech/)
+
+开放游戏资产管理协作平台
